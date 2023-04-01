@@ -5,7 +5,7 @@ intro: true,
 color: "#EFBD48",
 isLogoTexture: true,
 isFullTexture:false,
-isLogoDecal: './threejs.png',
+isLogoDecal: './paru.png',
 fullDecal: './threejs.png',
 });
 
